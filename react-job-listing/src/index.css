@@ -1,0 +1,48 @@
+.black{
+  background-color: black;
+}
+.blue{
+  background-color: #4E4FEB;
+}
+.blue-light{
+  background-color: #068FFF;
+}
+.smoke{
+  background-color: #EEEEEE;
+}
+
+.hero{
+  background-image: url(./assets/images/office.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.joblisting-bg{
+  background-image: url(./assets/images/joinus.jpg);
+  background-size: cover;
+}
+.joblisting{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5% 0%;
+}
+
+.card:hover{
+  box-shadow: 0px 0px 10px black;
+}
+
+
+.error-1{
+  font-size: 500%;
+  animation: e1 infinite 5s ease-in-out;
+}
+@keyframes e1 {
+  0%,100% {color: black;}
+  25% {color: red;}
+  50% {color: green;}
+  90%{color: blue;}
+}

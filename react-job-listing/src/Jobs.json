@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "role":"Software Engineer",
+        "location":"Bengaluru, Karnataka",
+        "description":"We are seeking a highly motivated software engineer to join our dynamic team. The ideal candidate should have experience in [Programming Languages/Frameworks], with a passion for problem-solving and innovation.",
+        "salary":"Rs. 7,00,000 - 11,00,000"
+    },
+    {
+        "id":2,
+        "role":"Marketing Coordinator",
+        "location":"Bengaluru, Karnataka",
+        "description":"Are you a creative thinker with a knack for digital marketing? Join our marketing team and play a key role in developing and executing strategic campaigns to drive brand awareness and engagement.",
+        "salary":"Rs. 4,00,000 - 5,50,000"
+    },
+    {
+        "id":3,
+        "role":"Sales Associate",
+        "location":"Bengaluru, Karnataka",
+        "description":"We are looking for enthusiastic individuals with excellent communication skills to join our sales team. As a sales associate, you will be responsible for building and maintaining client relationships while achieving sales targets.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":4,
+        "role":"DevOps Engineer",
+        "location":"Bengaluru, Karnataka",
+        "description":" We are seeking a talented DevOps engineer to streamline our development and operations processes. Responsibilities include automating deployment pipelines, managing infrastructure as code, and ensuring the reliability and scalability of our systems.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":5,
+        "role":"Full Stack Developer",
+        "location":"Bengaluru, Karnataka",
+        "description":"  We are looking for a versatile full stack developer to join our engineering team. The ideal candidate should have experience with both front-end and back-end technologies, including JavaScript, Node.js, React, and SQL databases.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":6,
+        "role":"Machine Learning Engineer",
+        "location":"Bengaluru, Karnataka",
+        "description":" Join our machine learning team and work on cutting-edge AI projects. Responsibilities include developing and deploying machine learning models, analyzing data, and optimizing algorithms for performance and scalability.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":7,
+        "role":"Systems Engineer",
+        "location":"Bengaluru, Karnataka",
+        "description":"We are looking for a systems engineer to design, implement, and maintain our IT infrastructure. Responsibilities include managing servers, networks, and storage systems, as well as troubleshooting system issues and ensuring uptime.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":8,
+        "role":"QA Automation Engineer",
+        "location":"Bengaluru, Karnataka",
+        "description":"We are seeking a QA automation engineer to develop and maintain automated test scripts for our software products. Responsibilities include designing test automation frameworks, executing tests, and analyzing test results to ensure product quality.",
+        "salary":"Rs. 4,00,000 - 5,00,000"
+    },
+    {
+        "id":9,
+        "role":"Mobile App Developer",
+        "location":"Bengaluru, Karnataka",
+        "description":"Join our mobile development team and build innovative mobile applications for iOS and Android platforms. Responsibilities include developing new features, optimizing performance, and ensuring compatibility across devices.",
+        "salary":"Rs. 4,00,000 - 5,00,000" 
+    },
+    {
+        "id":10,
+        "role":"Database Administrator",
+        "location":"Bengaluru, Karnataka",
+        "description":"Join our IT team as a database administrator and manage our databases to ensure data integrity, availability, and performance. Responsibilities include database design, implementation, optimization, and backup and recovery.",
+        "salary":"Rs. 4,00,000 - 5,00,000" 
+    },
+    {
+        "id":11,
+        "role":"Cloud Solutions Architect",
+        "location":"Bengaluru, Karnataka",
+        "description":"We are seeking a skilled cloud solutions architect to design and implement cloud-based solutions for our organization. Responsibilities include assessing business requirements, designing cloud architectures, and overseeing cloud migration projects.",
+        "salary":"Rs. 4,00,000 - 5,00,000" 
+
+    }
+]
