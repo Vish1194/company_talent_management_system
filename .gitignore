@@ -1,2 +1,3 @@
 backend_express/backup
 .env
+node_modules
