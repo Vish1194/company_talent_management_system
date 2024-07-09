@@ -24,20 +24,20 @@ A MySQL database server running.
 Clone the Repository:
 
 
-Install Dependencies:
+#### Install Dependencies:
 Bash
 npm install  or yarn install
 
-Configure Database Connection:
+#### Configure Database Connection:
 
-Create a .env file in backend_express directory.
+##### Create a .env file in backend_express directory.
 
 Add your MySQL database connection details:
 
-DB_HOST=localhost
-DB_USER=your_username
-DB_PASSWORD=your_password
-DB_NAME=your_database_name
+##### DB_HOST=localhost
+##### DB_USER=your_username
+##### DB_PASSWORD=your_password
+##### DB_NAME=your_database_name
 
 Run the Application:
 
