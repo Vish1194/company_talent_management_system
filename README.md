@@ -1,6 +1,6 @@
 # Galaxy Innovative Solutions : Company's Website And A Recruitment Platform
 
-This project is a full-stack web application built with ReactJS for the frontend, ExpressJS for the backend API, and MySQL for persistent data storage. It provides functionalities for both companies and candidates:
+This project is a full-stack web application built with ReactJS for the frontend with Bootstrap(CSS Framework) , ExpressJS for the backend API,and MySQL for persistent data storage. It provides functionalities for both companies and candidates:
 
 ## Features:
 
@@ -12,32 +12,33 @@ HR managers can perform CRUD (Create, Read, Update, Delete) operations on job li
 A user-friendly interface for candidates to manage their applications and track progress.
 
 ### Tech Stack:
-Frontend: ReactJS
-Backend: ExpressJS
-Database: MySQL
-Getting Started
+#### Frontend: ReactJS
+#### Backend: NodeJS & ExpressJS
+#### Database: MySQL
+#### CSS Framework: Bootstrap
+## Getting Started
 
-## Prerequisites:
+### Prerequisites:
 
 Node.js and npm installed on your system.
 A MySQL database server running.
 Clone the Repository:
 
 
-Install Dependencies:
+#### Install Dependencies:
 Bash
 npm install  or yarn install
 
-Configure Database Connection:
+#### Configure Database Connection:
 
-Create a .env file in backend_express directory.
+##### Create a .env file in backend_express directory.
 
 Add your MySQL database connection details:
 
-DB_HOST=localhost
-DB_USER=your_username
-DB_PASSWORD=your_password
-DB_NAME=your_database_name
+##### DB_HOST=localhost
+##### DB_USER=your_username
+##### DB_PASSWORD=your_password
+##### DB_NAME=your_database_name
 
 Run the Application:
 
