@@ -12,12 +12,12 @@ HR managers can perform CRUD (Create, Read, Update, Delete) operations on job li
 A user-friendly interface for candidates to manage their applications and track progress.
 
 ### Tech Stack:
-Frontend: ReactJS
-Backend: ExpressJS
-Database: MySQL
-Getting Started
+#### Frontend: ReactJS
+#### Backend: NodeJS & ExpressJS
+#### Database: MySQL
+## Getting Started
 
-## Prerequisites:
+### Prerequisites:
 
 Node.js and npm installed on your system.
 A MySQL database server running.
